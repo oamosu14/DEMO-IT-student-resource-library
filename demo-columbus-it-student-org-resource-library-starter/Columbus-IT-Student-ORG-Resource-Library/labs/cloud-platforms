@@ -1,0 +1,13 @@
+cloud-platforms/
+│
+├── README.md
+├── aws/
+│   ├── README.md
+│   └── labs/
+│       ├── deploy-ec2-instance.md
+│       └── s3-storage-demo.md
+├── azure/
+│   ├── README.md
+│   └── labs/
+│       ├── deploy-vm.md
+│       └── blob-storage-demo.md
