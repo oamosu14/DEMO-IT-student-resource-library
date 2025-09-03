@@ -1,32 +1,26 @@
-# Career Roadmap: Networking  
+# Career Roadmap – IT Support (9–15 months)
 
-This roadmap helps students build a career in **Computer Networking**.  
+**Foundations**  
+- PC hardware, troubleshooting basics  
+- Windows, Linux, macOS fundamentals  
+- Customer service & ticketing systems  
 
-## Step 1: Foundations  
-- Learn computer hardware and network basics.  
-- Understand TCP/IP, OSI model, and common protocols (HTTP, DNS, DHCP, FTP).  
-- Practice with VirtualBox or Packet Tracer for small lab setups.  
+**Core Skills**  
+- Active Directory, DNS, DHCP, Group Policy  
+- OS installation, patching, and imaging  
+- Basic networking & security troubleshooting  
 
-## Step 2: Entry-Level Certifications  
-- CompTIA Network+  
-- Cisco CCNA (associate level networking)  
-- Juniper JNCIA (optional alternative)  
+**Certifications**  
+- CompTIA A+ (foundational IT support)  
+- CompTIA Network+ (optional, for networking basics)  
+- Microsoft Endpoint Administrator (MD-102)  
 
-## Step 3: Hands-On Practice  
-- Configure routers, switches, and firewalls in Packet Tracer or GNS3.  
-- Build small LAN/WAN topologies.  
-- Practice VLANs, VPNs, and wireless networks.  
+**Projects**  
+- Set up a Windows Server VM with AD and user accounts  
+- Automate software installs with PowerShell or Bash  
+- Build a small IT help desk knowledge base  
 
-## Step 4: Intermediate Growth  
-- Cisco CCNP (professional networking)  
-- Learn SDN (Software-Defined Networking) concepts.  
-- Explore cloud networking with AWS/Azure.  
-
-## Step 5: Career Paths  
-- Network Technician → Network Engineer → Network Architect  
-- Network Security → Cloud Networking → Data Center Specialist  
-
-## Resources  
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)  
-- [GNS3](https://gns3.com/) (network simulation)  
-- [Cisco Networking Academy](https://www.netacad.com/)  
+**Next Steps**  
+- CompTIA Security+ (for security-focused support)  
+- Linux+ or RHCSA (system administration path)  
+- Transition into SysAdmin, Cloud Support, or Cybersecurity  
