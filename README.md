@@ -1,6 +1,3 @@
-Great choice ✅ — adding a **Future Vision** section will make the repo and your demo look forward-thinking and scalable.
-Here’s the updated **README.md** with the new section included:
-
 ---
 
 # 🎓 Columbus IT Student ORG – Certification & Lab Resource Library
