@@ -1,110 +1,112 @@
 # 🎓 Columbus IT Student ORG – Certification & Lab Resource Library
 
-![Repo Badge](https://img.shields.io/badge/status-demo-blue)
-![License Badge](https://img.shields.io/badge/license-MIT-green)
-
 ![Security+](https://img.shields.io/badge/Security%2B-Practice-blue?style=for-the-badge&logo=shield)
 ![Linux+](https://img.shields.io/badge/Linux%2B-Practice-orange?style=for-the-badge&logo=linux)
 ![Network+](https://img.shields.io/badge/Network%2B-Practice-red?style=for-the-badge&logo=cisco)
 ![DevOps](https://img.shields.io/badge/DevOps-Labs-purple?style=for-the-badge&logo=jenkins)
 ![Cloud](https://img.shields.io/badge/Cloud-Practice-lightblue?style=for-the-badge&logo=aws)
 
-
-Welcome to the **Columbus IT Student ORG Resource Library**!  
-This project is designed to give students **free, practical, and secure access** to resources that support IT certifications, labs, and real-world skills in areas like **Cybersecurity, Linux, Networking, DevOps, and IT Support**.
+Welcome to the Columbus IT Student ORG Resource Library! This project is designed to give students free, practical, and secure access to resources that support IT certifications, labs, and real-world skills in areas like Cybersecurity, Linux, Networking, DevOps, and Cloud.
 
 ---
 
 ## 📌 Purpose
-- 🗂 Provide one central place for certification prep and hands-on labs  
-- 🏆 Help students build confidence for certifications such as **CompTIA Security+, Linux+, Network+**, and cloud/DevOps pathways  
-- 🤝 Encourage collaboration while maintaining security and professional standards  
+- Provide a single central hub for certification prep and hands-on labs.
+- Help students build confidence for certifications such as CompTIA Security+, Linux+, Network+, and DevOps/cloud pathways.
+- Encourage collaboration while maintaining security and professional standards.
 
 ---
 
-## 📂 Planned Resources
-- 📁 **GitHub Repo Structure:** Organized folders for certifications, labs, and guides  
-- 📄 **Lab Guides (PDFs):** Step-by-step instructions to practice skills  
-- 💻 **Command-to-Command Instructions:** For Linux, Networking, Cloud, and DevOps tasks  
-- 🌐 **Free Resource Links:** High-quality external training materials for immediate use  
+## 📂 Repo Structure & Resources
+
+### 1. Certifications
+- **[Security+](./certifications/security-plus/)**
+  - `practice_resources.md` – Free practice labs, video courses, cheat sheets, and practice exams.
+  - `study_guide.md` – Step-by-step study plan with daily/weekly rhythm.
+
+- **[Linux+](./certifications/linux-plus/)**
+  - `practice_resources.md` – Free Linux labs, wargames, and video courses.
+  - `study_guide.md` – Study plan for Linux+ exam prep.
+
+- **[Network+](./certifications/network-plus/)**
+  - `practice_resources.md` – Free networking labs, Cisco Packet Tracer, and video courses.
+  - `study_guide.md` – Study plan for Network+ exam prep.
 
 ---
 
-## 🌐 Free Resource Platforms (Immediate Access)
-While custom lab guides are being built, students can begin with these **free resources**:
+### 2. Career Roadmaps
+- **[Cybersecurity](./career-roadmaps/cybersecurity.md)**
+- **[DevOps](./career-roadmaps/devops.md)**
+- **[Networking](./career-roadmaps/networking.md)**
+- **[IT Support](./career-roadmaps/it-support.md)**
+- **[Cloud](./career-roadmaps/cloud.md)**
 
-- 🛡 [CompTIA CertMaster Practice (Demo)](https://www.comptia.org/certifications)  
-- 🔐 [TryHackMe – Free Cybersecurity Labs](https://tryhackme.com/)  
-- 🐧 [OverTheWire – Linux & Security Wargames](https://overthewire.org/)  
-- 🌐 [Cisco Packet Tracer Labs](https://www.netacad.com/courses/packet-tracer)  
-- ☁️ [AWS Free Tier – Practice Cloud Skills Safely](https://aws.amazon.com/free/)  
-- 📚 [Microsoft Learn – Free Structured IT & Cloud Learning](https://learn.microsoft.com/)  
-
----
-
-## 📂 Career Roadmaps
-Guidance for IT career paths, including suggested certifications, hands-on projects, and free resources:
-
-- 🛡 [Cybersecurity Career Roadmap](career-roadmaps/cybersecurity.md)  
-- ⚙️ [DevOps Career Roadmap](career-roadmaps/devops.md)  
-- 🌐 [Networking Career Roadmap](career-roadmaps/networking.md)  
-- 🖥 [IT Support Career Roadmap](career-roadmaps/it-support.md)  
-- ☁️ [Cloud Career Roadmap](career-roadmaps/cloud.md)  
+Each roadmap shows skills, certifications, projects, and recommended study duration.
 
 ---
 
-## 📂 Certification Prep Folders
-- 🛡 **Security+:**  
-  - [Practice Resources](certifications/security+/practice_resources.md)  
-  - [Study Guide](certifications/security+/study_guide.md)  
-- 🌐 **Network+:**  
-  - [Practice Resources](certifications/network+/practice_resources.md)  
-  - [Study Guide](certifications/network+/study_guide.md)  
-- 🐧 **Linux+:**  
-  - [Practice Resources](certifications/linux+/practice_resources.md)  
-  - [Study Guide](certifications/linux+/study_guide.md)  
+### 3. Lab Guides
+- **[Linux Labs](./labs/linux/)**
+  - `virtualbox/` – Step-by-step guide to download VirtualBox, create VMs, and start labs.
+  - `command-labs.md` – Hands-on exercises with step-by-step commands.
+
+- **[Networking Labs](./labs/networking/)**
+  - Packet Tracer simulations.
+  - Practical network exercises.
+
+- **[Cloud Labs](./labs/cloud-platforms/)**
+  - Instructions for starting free-tier AWS and Azure accounts.
+  - Hands-on tasks:
+    - `task1-deploy-ec2.md` – Launch and configure EC2 instance.
+    - `task2-s3-storage.md` – Create and manage S3 buckets.
+
+- **[DevOps Labs](./labs/devops/)**
+  - CI/CD pipelines with GitHub Actions.
+  - Docker container exercises.
+  - Kubernetes basic orchestration.
 
 ---
 
-## 📂 Labs
-Hands-on labs for practical skills development:
+### 4. Governance
+- **[Governance Guidelines](./governance.md)**
+  - Maintainers: Review PRs, merge safe content, tag releases.
+  - Faculty: Optional oversight; approve structural changes.
+  - Alumni: Contribute and mentor.
+  - Decisions by consensus among maintainers; faculty tie-breaker.
 
-- 🐧 **Linux Labs:** [VirtualBox Setup & VM Instructions](labs/linux/virtualbox.md)  
-- 🌐 **Networking Labs:** [Cisco Packet Tracer & GNS3](labs/networking/)  
-- ☁️ **Cloud Labs:** [AWS Free Tier & Sample Tasks](labs/cloud/)  
-- ⚙️ **DevOps Labs:** CI/CD pipelines, Docker, Kubernetes examples (to be added)  
+---
+
+### 5. Free Resource Platforms (Immediate Access)
+- [CompTIA CertMaster Practice (Demo)](https://www.comptia.org/certifications)
+- [TryHackMe – Free Cybersecurity Labs](https://tryhackme.com/)
+- [OverTheWire – Linux & Security Wargames](https://overthewire.org/wargames/)
+- [Cisco Packet Tracer (Networking Simulation)](https://www.netacad.com/courses/packet-tracer)
+- [AWS Free Tier – Practice Cloud Skills Safely](https://aws.amazon.com/free/)
+- [Microsoft Learn – Free Structured IT & Cloud Learning](https://learn.microsoft.com/en-us/training/)
 
 ---
 
 ## 🔐 Security & Safety Notes
-Because this is an educational environment, we apply strict safeguards:
-
-- 🛡 **Main branch protection:** No direct pushes; all changes go through pull requests  
-- ✅ **Code review required:** Prevents unsafe or malicious code from being merged  
-- 🚫 **No sensitive data:** Students are reminded **never** to upload credentials, passwords, or private info  
-- 🖥 **Safe labs:** Exercises are sandboxed or use free tiers, so they won’t damage personal or school systems  
+- **Main branch protection:** No direct pushes; all changes via Pull Requests.
+- **Code review required:** Prevents unsafe or malicious code merges.
+- **No sensitive data:** Students must never upload credentials or private info.
+- **Safe labs:** Exercises are sandboxed or in free-tier cloud environments to avoid system damage.
 
 ---
 
 ## 🚀 How Students Will Use It
-1. 📖 **Browse Resources:** Start with free links or download lab guides (when added)  
-2. 🔧 **Clone or Fork Repo:** Practice commands and labs in your own environment  
-3. 📬 **Submit Contributions (Optional):** Students can propose improvements via Pull Requests  
-4. 👥 **Learn Together:** Faculty and peers can review, share feedback, and expand resources  
+1. **Browse Resources:** Start with free links or download lab guides (when added).
+2. **Clone or Fork Repo:** Practice commands and labs in your own environment.
+3. **Submit Contributions (Optional):** Propose improvements via Pull Requests.
+4. **Learn Together:** Faculty and peers can review, share feedback, and expand resources.
 
 ---
 
 ## 🌟 Future Vision
-This library is just the beginning. The long-term plan includes:
+- **Workshops & Live Labs:** Faculty- or student-led sessions practicing certifications together.
+- **Mentorship Opportunities:** Alumni and advanced students guide newer members.
+- **Hackathons & Competitions:** Friendly contests for Cybersecurity, Networking, and DevOps.
+- **Career Roadmaps:** Guidance for Cybersecurity, Cloud, Networking, DevOps, and IT Support career paths.
+- **Alumni Engagement:** Graduates can continue contributing and sharing job opportunities.
 
-- 🏫 **Workshops & Live Labs:** Faculty- or student-led sessions where students practice certifications together  
-- 👨‍🏫 **Mentorship Opportunities:** Alumni and advanced students guide newer members  
-- 🏁 **Hackathons & Competitions:** Friendly contests to practice cybersecurity, networking, and DevOps  
-- 📈 **Career Roadmaps:** Guidance for **Cybersecurity, Cloud, Networking, and DevOps career paths**  
-- 🎓 **Alumni Engagement:** Graduates can continue contributing and sharing job opportunities  
-
-This vision ensures the Columbus IT Student ORG remains relevant and beneficial even years after graduation.
-
----
-
-**Happy Learning!** 🎓
+This ensures the Columbus IT Student ORG remains relevant and beneficial even years after graduation.
