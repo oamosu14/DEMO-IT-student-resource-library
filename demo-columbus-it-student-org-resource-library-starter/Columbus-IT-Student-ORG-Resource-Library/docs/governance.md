@@ -49,6 +49,16 @@ This document outlines how the repository is managed to ensure quality, safety, 
 
 ---
 
+## Code of Conduct
+All contributors are expected to follow these community standards:  
+- **Respect:** Communicate professionally and respectfully to maintain a positive learning environment.  
+- **Inclusivity:** Everyone is welcome regardless of background, skill level, or experience.  
+- **Collaboration:** Help each other learn, review contributions constructively, and share knowledge.  
+- **Integrity:** Share accurate information, give credit where due, and follow licensing and copyright rules.  
+- **Accountability:** Take responsibility for your contributions and accept feedback gracefully.  
+
+---
+
 ## Recognition
 - Student maintainers may receive recognition from the faculty advisor for their contributions (e.g., leadership mentions, LinkedIn endorsements).  
 - Alumni mentors are acknowledged in release notes or repo credits.  
