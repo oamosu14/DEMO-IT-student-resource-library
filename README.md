@@ -1,5 +1,8 @@
 # 🎓 Columbus IT Student ORG – Certification & Lab Resource Library
 
+![Repo Badge](https://img.shields.io/badge/status-demo-blue)
+![License Badge](https://img.shields.io/badge/license-MIT-green)
+
 ![Security+](https://img.shields.io/badge/Security%2B-Practice-blue?style=for-the-badge&logo=shield)
 ![Linux+](https://img.shields.io/badge/Linux%2B-Practice-orange?style=for-the-badge&logo=linux)
 ![Network+](https://img.shields.io/badge/Network%2B-Practice-red?style=for-the-badge&logo=cisco)
