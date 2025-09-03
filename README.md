@@ -3,6 +3,15 @@
 ![Repo Badge](https://img.shields.io/badge/status-demo-blue)
 ![License Badge](https://img.shields.io/badge/license-MIT-green)
 
+# 🎓 Columbus IT Student ORG – Certification & Lab Resource Library
+
+![Security+](https://img.shields.io/badge/Security%2B-Practice-blue?style=for-the-badge&logo=shield)
+![Linux+](https://img.shields.io/badge/Linux%2B-Practice-orange?style=for-the-badge&logo=linux)
+![Network+](https://img.shields.io/badge/Network%2B-Practice-red?style=for-the-badge&logo=cisco)
+![DevOps](https://img.shields.io/badge/DevOps-Labs-purple?style=for-the-badge&logo=jenkins)
+![Cloud](https://img.shields.io/badge/Cloud-Practice-lightblue?style=for-the-badge&logo=aws)
+
+
 Welcome to the **Columbus IT Student ORG Resource Library**!  
 This project is designed to give students **free, practical, and secure access** to resources that support IT certifications, labs, and real-world skills in areas like **Cybersecurity, Linux, Networking, DevOps, and IT Support**.
 
