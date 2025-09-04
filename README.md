@@ -86,6 +86,27 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
 
 ---
 
+🎮 Fun Learning & Challenges
+---------------------------
+Explore beginner-friendly interactive exercises to make learning IT fun!
+
+### Code Challenges
+- [Cybersecurity](fun-learning/code-challenges/cybersecurity/README.md)
+- [Linux](fun-learning/code-challenges/linux/README.md)
+- [Networking](fun-learning/code-challenges/networking/README.md)
+- [DevOps](fun-learning/code-challenges/devops/README.md)
+
+### Kahoot Quizzes
+- [IT Basics](fun-learning/kahoot/IT_basics_kahoot.md)
+- [Cybersecurity](fun-learning/kahoot/Cybersecurity_kahoot.md)
+
+### Beginner Coding
+- [Python Basics](fun-learning/beginner-coding/Python_basics.md)
+- [Bash Basics](fun-learning/beginner-coding/Bash_basics.md)
+- [HTML & CSS Basics](fun-learning/beginner-coding/HTML_CSS_basics.md)
+
+---
+
 ## 🔐 Security & Safety Notes
 - **Main branch protection:** No direct pushes; all changes via Pull Requests.
 - **Code review required:** Prevents unsafe or malicious code merges.
