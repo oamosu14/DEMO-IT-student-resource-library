@@ -23,4 +23,11 @@
 **Next Steps**  
 - CompTIA Security+ (for security-focused support)  
 - Linux+ or RHCSA (system administration path)  
-- Transition into SysAdmin, Cloud Support, or Cybersecurity  
+- Transition into SysAdmin, Cloud Support, or Cybersecurity
+
+**Roles**  
+- Technical Support Specialist
+- System Administrator
+- Desktop Technician
+- IT Support Analyst
+- IT Support Manager  
