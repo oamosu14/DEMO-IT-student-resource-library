@@ -77,6 +77,3 @@ Copyright (c) 2025 Columbus IT Student ORG
 > This project is a student-led initiative and is **not officially endorsed by Ivy Tech**.  
 
 ---
-
-## 📄 License
-MIT — see `LICENSE`.
