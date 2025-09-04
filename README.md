@@ -12,37 +12,43 @@ Welcome to the Columbus IT Student ORG Resource Library! This project is designe
 
 ## Quick Navigation Flowchart
 
-flowchart TD
-    A[Start Here] --> B[Browse Career Roadmaps]
-    
-    B --> B1[DevOps → devops.md → Labs: CI/CD, Docker, Kubernetes]
-    B --> B2[Cybersecurity → cybersecurity.md → Labs: Security+, TryHackMe, Hack The Box]
-    B --> B3[Networking → networking.md → Labs: Cisco Packet Tracer, Network+ exercises]
-    B --> B4[IT Support → it-support.md → Labs: Help Desk scenarios, Troubleshooting]
-    
-    B --> C[Check Certification Practice Guides]
-    C --> C1[Security+ → practice_resources.md, study_guide.md]
-    C --> C2[Linux+ → practice_resources.md, study_guide.md]
-    C --> C3[Network+ → practice_resources.md, study_guide.md]
-    
-    C --> D[Hands-On Labs]
-    D --> D1[Linux Labs → VM setup (VirtualBox/VMware)]
-    D --> D2[Networking Labs → Packet Tracer, network simulations]
-    D --> D3[Cloud Labs → AWS Free Tier, Azure, Google Cloud]
-    D --> D4[DevOps Labs → GitHub Actions, Terraform, Docker]
-    
-    D --> E[Fun Learning & Challenges]
-    E --> E1[Kahoot quizzes]
-    E --> E2[Beginner coding exercises]
-    E --> E3[Security/Networking mini challenges]
-    
-    E --> F[Contribute & Collaborate]
-    F --> F1[Fork or clone repo]
-    F --> F2[Create branch]
-    F --> F3[Submit Pull Request]
-    F --> F4[Discuss in GitHub Discussions]
-    
-    F --> G[Level Up → Repeat]
+Start Here
+   │
+   ▼
+Browse Career Roadmaps
+   ├─> DevOps → devops.md → Labs: CI/CD, Docker, Kubernetes
+   ├─> Cybersecurity → cybersecurity.md → Labs: Security+, TryHackMe, Hack The Box
+   ├─> Networking → networking.md → Labs: Cisco Packet Tracer, Network+ exercises
+   └─> IT Support → it-support.md → Labs: Help Desk scenarios, Troubleshooting
+   │
+   ▼
+Check Certification Practice Guides
+   ├─> Security+ → practice_resources.md, study_guide.md
+   ├─> Linux+ → practice_resources.md, study_guide.md
+   └─> Network+ → practice_resources.md, study_guide.md
+   │
+   ▼
+Hands-On Labs
+   ├─> Linux Labs → VM setup (VirtualBox/VMware)
+   ├─> Networking Labs → Packet Tracer, network simulations
+   ├─> Cloud Labs → AWS Free Tier, Azure, Google Cloud
+   └─> DevOps Labs → GitHub Actions, Terraform, Docker
+   │
+   ▼
+Fun Learning & Challenges
+   ├─> Kahoot quizzes
+   ├─> Beginner coding exercises
+   └─> Security/Networking mini challenges
+   │
+   ▼
+Contribute & Collaborate
+   ├─> Fork or clone repo
+   ├─> Create branch
+   ├─> Submit Pull Request
+   └─> Discuss in GitHub Discussions
+   │
+   ▼
+Level Up → Repeat
 
 ---
 
