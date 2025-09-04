@@ -6,5 +6,6 @@
 
 **Phase 3:** IaC (Terraform), CI/CD basics (GitHub Actions), containers (Docker) → Multi-cloud strategy, platform engineering, enterprise architecture
 
-**Certs:** AWS Cloud Practitioner → AWS Solutions Architect Associate → Azure Fundamentals
+**Certifications:** AWS Cloud Practitioner → AWS Solutions Architect Associate → Azure Fundamentals
+
 **Projects:** Host a static site on S3/CloudFront; deploy a containerized app
