@@ -10,6 +10,7 @@ Built to be lightweight, safe, and sustainable — **no cost** to the school.
 - **labs/** – Step‑by‑step, copy‑paste labs for Linux, Networking, Cybersecurity, Windows/AD
 - **career-roadmaps/** – Paths for Cybersecurity, Cloud, and DevOps
 - **docs/** – Governance, contribution, and safety policies
+- **fun-learning/** – Quizzes, puzzles, flashcards, and trivia to make IT learning fun
 
 ---
 
