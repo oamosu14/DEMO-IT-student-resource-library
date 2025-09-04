@@ -67,5 +67,16 @@ Please read `CONTRIBUTING.md` and our `CODE_OF_CONDUCT.md` before submitting PRs
 
 ---
 
+## 📄 License  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+Copyright (c) 2025 Columbus IT Student ORG  
+
+> Maintained by the **Columbus IT Student Organization** at **Ivy Tech Community College – Columbus Campus**.  
+> This project is a student-led initiative and is **not officially endorsed by Ivy Tech**.  
+
+---
+
 ## 📄 License
 MIT — see `LICENSE`.
