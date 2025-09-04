@@ -4,7 +4,7 @@
 Learn Python fundamentals with simple, hands-on exercises.
 
 ### Exercises:
-1. Print "Hello, Columbus IT!".
+1. Print "Hello, Columbus IT Students!".
 ```python
-print("Hello, Columbus IT!")
+print("Hello, Columbus IT Students!")
 
