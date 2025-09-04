@@ -29,9 +29,9 @@ Learn how to create an S3 bucket and upload/download files.
 
 ## Steps
 1. Log in to AWS Management Console → S3.
-2. Click **Create bucket** → name it uniquely.
-3. Choose region, leave default settings, click **Create bucket**.
-4. Click bucket → **Upload** → select a test file.
+2. Click "Create bucket" → name it uniquely.
+3. Choose region, leave default settings, click "Create bucket".
+4. Click bucket → "Upload" → select a test file.
 5. After upload, download to verify file integrity.
 
 ## Notes
