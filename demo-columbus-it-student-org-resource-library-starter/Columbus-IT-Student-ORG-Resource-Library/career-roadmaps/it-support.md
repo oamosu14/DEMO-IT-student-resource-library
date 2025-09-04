@@ -1,4 +1,4 @@
-# Career Roadmap – IT Support (3–6 months)
+# Career Roadmap – IT Support 
 
 **Foundations**  
 - PC hardware, troubleshooting basics  
