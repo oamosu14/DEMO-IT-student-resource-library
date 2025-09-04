@@ -12,8 +12,9 @@
 - Build a home lab; practice incident response notes
 
 **Roles:**   
-- Roles: Security Architect, Lead Incident Responder
-- Focus on leadership, threat modeling, secure design, compliance
+- Security Architect, Lead Incident Responder
+- Focus on leadership, threat modeling, secure design, compliance, SOC Analyst, Jr. Security Analyst, Vulnerability Analyst, Information Security Engineer
 
-**Certifications:** CompTIA Security+ → (optional) CySA+ / CompTIA Network+ / eJPT  / CEH (optional) / OSCP
-**Roles:** SOC Analyst, Jr. Security Analyst, Vulnerability Analyst, Information Security Engineer
+**Certifications:** 
+- CompTIA Security+ → (optional) CySA+ / CompTIA Network+ / eJPT  / CEH (optional) / OSCP
+
