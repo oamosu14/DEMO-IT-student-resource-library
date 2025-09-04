@@ -1,4 +1,4 @@
-# Career Roadmap – Networking (12–18 months)
+# Career Roadmap – Networking 
 
 **Foundations**  
 - TCP/IP, OSI model, DNS, DHCP, HTTP, VPN, VLANs  
