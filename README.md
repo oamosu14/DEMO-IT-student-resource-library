@@ -38,7 +38,7 @@ Welcome to the Columbus IT Student ORG Resource Library! This project is designe
 - **[Cybersecurity](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/cybersecurity.md)**
 - **[DevOps](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/devops.md)**
 - **[Networking](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/networking.md)**
-- **[IT Support](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/it-support.md)**
+- **[IT Generalist](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/IT-generalist.md)**
 - **[Cloud](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/cloud.md)**
 
 Each roadmap shows skills, certifications, projects, and recommended study duration.
