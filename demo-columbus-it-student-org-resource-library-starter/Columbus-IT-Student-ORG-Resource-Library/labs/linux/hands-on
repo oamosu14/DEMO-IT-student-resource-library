@@ -1,1 +1,10 @@
 
+Linux Labs
+
+virtualbox/ – Step-by-step guide to download VirtualBox, create VMs, and start labs.
+command-labs.md – Hands-on exercises with step-by-step commands.
+lab1-users-permissions.md – Create/manage users and set file permissions.
+lab2-ssh-setup.md – Configure secure SSH access to a server.
+lab3-apache-nginx.md – Install and configure a web server.
+lab4-system-monitoring.md – Use top, htop, journalctl, and systemctl for monitoring.
+lab5-package-management.md – Install, update, and remove packages using apt/yum.
