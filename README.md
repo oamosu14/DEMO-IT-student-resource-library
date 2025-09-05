@@ -103,13 +103,14 @@ Explore beginner-friendly interactive exercises to make learning IT fun!
 
 ### Code Challenges
 - [Cybersecurity](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/code-challenges/cybersecurity/README.md)
-- [Linux](fun-learning/code-challenges/linux/README.md)
-- [Networking](fun-learning/code-challenges/networking/README.md)
-- [DevOps](fun-learning/code-challenges/devops/README.md)
+- [Linux](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/code-challenges/linux/README.md)
+- [Networking](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/code-challenges/networking/README.md)
+- [DevOps](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/code-challenges/devops/README.md)
 
 ### Kahoot Quizzes
-- [IT Basics](fun-learning/kahoot/IT_basics_kahoot.md)
-- [Cybersecurity](fun-learning/kahoot/Cybersecurity_kahoot.md)
+- [IT Basics](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/kahoot/IT_basics_kahoot.md)
+- [Cybersecurity](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/kahoot/Cybersecurity_kahoot.md)
+- [Python Basics](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/kahoot/Python_basics.md)
 
 ### Beginner Coding
 - [Python Basics](fun-learning/beginner-coding/Python_basics.md)
