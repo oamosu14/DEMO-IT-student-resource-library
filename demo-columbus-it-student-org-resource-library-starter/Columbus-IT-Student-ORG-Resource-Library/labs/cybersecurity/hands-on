@@ -1,0 +1,9 @@
+Cybersecurity Labs 
+
+lab1-webserver-firewall-tls.md – Secure a web server with UFW and self-signed TLS.
+lab2-system-hardening.md – Apply OS-level security configurations and best practices.
+lab3-vulnerability-scanning.md – Use OpenVAS/Nessus to identify system vulnerabilities.
+lab4-password-audit.md – Conduct a password policy and strength assessment.
+lab5-log-monitoring.md – Analyze security logs with SIEM tools (e.g., Wazuh/ELK).
+lab6-phishing-awareness.md – Simulate phishing and learn mitigation.
+lab7-firewall-rules.md – Configure and test firewall rules.
