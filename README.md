@@ -102,7 +102,7 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
 Explore beginner-friendly interactive exercises to make learning IT fun!
 
 ### Code Challenges
-- [Cybersecurity](fun-learning/code-challenges/cybersecurity/README.md)
+- [Cybersecurity](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/fun-learning/code-challenges/cybersecurity/README.md)
 - [Linux](fun-learning/code-challenges/linux/README.md)
 - [Networking](fun-learning/code-challenges/networking/README.md)
 - [DevOps](fun-learning/code-challenges/devops/README.md)
