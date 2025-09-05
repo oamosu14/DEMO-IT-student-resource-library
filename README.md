@@ -48,7 +48,8 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
 ### 3. Lab Guides
 - **[Linux Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/linux)**
   - `virtualbox/` – Step-by-step guide to download VirtualBox, create VMs, and start labs.
-  - `command-labs.md` – Hands-on exercises with step-by-step commands.
+  - Hands-on exercises with step-by-step commands.
+  - Create/manage users and set file permissions.
 
 - **[Networking Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/networking)**
   - Packet Tracer simulations.
@@ -61,14 +62,19 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
     - `task2-s3-storage.md` – Create and manage S3 buckets.
 
 - **[Cybersecurity Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/cybersecurity)**
-  - Web Server + Firewall + Self-Signed TLS
-  - System Hardening.
-  - Vulnerability Scanning.
+  - Secure a web server with UFW and self-signed TLS.
+  - Apply OS-level security configurations and best practices.
+  - Use OpenVAS/Nessus to identify system vulnerabilities.
  
 - **[DevOps Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/devops)**
   - CI/CD pipelines with GitHub Actions.
   - Docker container exercises.
   - Kubernetes basic orchestration.
+
+- **[Information Technology (Generalist) Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/IT-generalist)**
+  - Simulate and resolve common user issues.
+  - Create and manage users/groups in AD.
+  - Perform and restore system backups.
 
 ---
 
