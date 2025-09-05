@@ -35,7 +35,7 @@ Welcome to the Columbus IT Student ORG Resource Library! This project is designe
 ---
 
 ### 2. Career Roadmaps
-- **[Cybersecurity](./career-roadmaps/cybersecurity.md)**
+- **[Cybersecurity](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/career-roadmaps/cybersecurity.md)**
 - **[DevOps](./career-roadmaps/devops.md)**
 - **[Networking](./career-roadmaps/networking.md)**
 - **[IT Support](./career-roadmaps/it-support.md)**
