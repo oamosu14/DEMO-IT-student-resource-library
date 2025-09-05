@@ -1,0 +1,11 @@
+DevOps Labs
+
+CI/CD pipelines with GitHub Actions.
+Docker container exercises.
+Kubernetes basic orchestration.
+lab1-git-basics.md – Clone, branch, commit, and merge repositories.
+lab2-dockerfile.md – Write and build a custom Dockerfile.
+lab3-docker-compose.md – Orchestrate multi-container apps with Docker Compose.
+lab4-jenkins-pipeline.md – Create a Jenkins pipeline for automated builds.
+lab5-k8s-deploy-app.md – Deploy an app to Kubernetes with kubectl.
+lab6-ansible-basics.md – Automate server config with Ansible playbooks.
