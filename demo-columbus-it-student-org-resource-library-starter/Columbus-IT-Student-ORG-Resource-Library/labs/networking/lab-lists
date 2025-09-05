@@ -1,9 +1,0 @@
-Networking Labs
-
-Packet Tracer simulations.
-Practical network exercises.
-lab1-ip-subnetting.md – Hands-on IP addressing and subnetting.
-lab2-router-switch-config.md – Configure basic Cisco router and switch.
-lab3-dhcp-dns.md – Set up DHCP and DNS services.
-lab4-wireshark-capture.md – Analyze packets using Wireshark.
-lab5-vlan-setup.md – Configure and test VLANs.
