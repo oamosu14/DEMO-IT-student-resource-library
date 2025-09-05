@@ -20,15 +20,15 @@ Welcome to the Columbus IT Student ORG Resource Library! This project is designe
 ## 📂 Repo Structure & Resources
 
 ### 1. Certifications
-- **[Security+](./certifications/security-plus/)**
+- **[Security+](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/certifications/Security+)**
   - `practice_resources.md` – Free practice labs, video courses, cheat sheets, and practice exams.
   - `study_guide.md` – Step-by-step study plan with daily/weekly rhythm.
 
-- **[Linux+](./certifications/linux-plus/)**
+- **[Linux+](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/certifications/Linux+)**
   - `practice_resources.md` – Free Linux labs, wargames, and video courses.
   - `study_guide.md` – Study plan for Linux+ exam prep.
 
-- **[Network+](./certifications/network-plus/)**
+- **[Network+](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/certifications/Network+)**
   - `practice_resources.md` – Free networking labs, Cisco Packet Tracer, and video courses.
   - `study_guide.md` – Study plan for Network+ exam prep.
 
@@ -46,21 +46,26 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
 ---
 
 ### 3. Lab Guides
-- **[Linux Labs](./labs/linux/)**
+- **[Linux Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/linux)**
   - `virtualbox/` – Step-by-step guide to download VirtualBox, create VMs, and start labs.
   - `command-labs.md` – Hands-on exercises with step-by-step commands.
 
-- **[Networking Labs](./labs/networking/)**
+- **[Networking Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/networking)**
   - Packet Tracer simulations.
   - Practical network exercises.
 
-- **[Cloud Labs](./labs/cloud-platforms/)**
+- **[Cloud Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/cloud-platforms)**
   - Instructions for starting free-tier AWS and Azure accounts.
   - Hands-on tasks:
     - `task1-deploy-ec2.md` – Launch and configure EC2 instance.
     - `task2-s3-storage.md` – Create and manage S3 buckets.
 
-- **[DevOps Labs](./labs/devops/)**
+- **[Cybersecurity Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/cybersecurity)**
+  - Web Server + Firewall + Self-Signed TLS
+  - System Hardening.
+  - Vulnerability Scanning.
+ 
+- **[DevOps Labs](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/labs/devops)**
   - CI/CD pipelines with GitHub Actions.
   - Docker container exercises.
   - Kubernetes basic orchestration.
