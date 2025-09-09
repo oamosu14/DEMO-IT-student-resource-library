@@ -79,7 +79,7 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
 ---
 
 ### 4. Governance
-- **[Governance Guidelines](./governance.md)**
+- **[Governance Guidelines](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/governance.md)**
   - Maintainers: Review PRs, merge safe content, tag releases.
   - Faculty: Optional oversight; approve structural changes.
   - Alumni: Contribute and mentor.
