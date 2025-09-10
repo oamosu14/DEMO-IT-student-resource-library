@@ -109,7 +109,7 @@ Through **IT Pulse**, you’ll find:
 > 💡 Why check IT Pulse?  
 > Because knowing *what’s next* helps you prepare today. Stay informed, stay relevant, and never miss out on the opportunities and trends shaping the IT industry.  
 
-➡️ [**Explore IT Pulse Now**](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/IT-Pulse)  
+➡️ [**Explore IT Pulse Now**](demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/IT-Pulse/latest.md)  
 
 ---
 
