@@ -12,14 +12,11 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 ---
 
 ## 💡 IT TIP OF THE WEEK
-![Tip Badge](https://img.shields.io/badge/Tip-of-the-Week-yellow?style=for-the-badge&logo=markdown)
 
-> 💻  **"Automate repetitive tasks; if you do it twice, script it!"** – DevOps Wisdom  
-> 🔐  **"Use multi-factor authentication everywhere—it’s your first line of defense."** – Cybersecurity Pro  
-> ⚙️  **"Index your database columns that you query often; it saves tons of time."** – Database Guru  
-> 🌐  **"Document your network IPs and subnets. Chaos loves undocumented networks."** – Networking Pro  
-
-✨ **Tip:** Check back weekly for a fresh IT Tip to stay motivated and sharp in all IT fields!
+![Automate repetitive tasks; if you do it twice, script it!](https://img.shields.io/badge/Automate_repetitive_tasks-DevOps-blue?style=for-the-badge)
+![Use multi-factor authentication everywhere—it’s your first line of defense](https://img.shields.io/badge/MFA_everywhere-Cybersecurity-red?style=for-the-badge)
+![Index your database columns that you query often; it saves tons of time](https://img.shields.io/badge/Index_database-Database-green?style=for-the-badge)
+![Document your network IPs and subnets. Chaos loves undocumented networks](https://img.shields.io/badge/Document_network-Networking-orange?style=for-the-badge)
 
 ---
 ---
