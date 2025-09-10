@@ -7,6 +7,21 @@
 Welcome to **IT Pulse**, your one-stop spot for the **latest in IT, software, tools, and industry updates**.  
 This page is refreshed regularly to help students, alumni, and faculty stay in the loop with **everything IT**.
 
+
+---
+---
+
+## 💡🌟 IT TIP OF THE WEEK 🌟💡
+![Tip](https://img.shields.io/badge/Tip-of-the-Week-yellow?style=for-the-badge&logo=markdown)
+
+> 💻 **"Automate repetitive tasks; if you do it twice, script it!"** – DevOps Wisdom  
+> 🔐 **"Use multi-factor authentication everywhere—it’s your first line of defense."** – Cybersecurity Pro  
+> ⚙️ **"Index your database columns that you query often; it saves tons of time."** – Database Guru  
+> 🌐 **"Document your network IPs and subnets. Chaos loves undocumented networks."** – Networking Pro  
+
+✨ **Tip:** Check back every week for a fresh IT Tip to stay motivated and sharp in all IT fields!  
+
+---
 ---
 
 ## 📰 Latest IT News
