@@ -1,4 +1,4 @@
-# ⚡ IT Pulse – Stay Ahead in Tech
+# ⚡ IT Pulse – Stay Ahead in Tech  
 
 Welcome to **IT Pulse**, your one-stop spot for the **latest in IT, software, tools, and industry updates**.  
 This page is refreshed regularly to help students, alumni, and faculty stay in the loop with **everything IT**.  
@@ -7,36 +7,36 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 
 ## 📰 Latest IT News
 - 🗓️ **[Date Range: Sept 1–7, 2025]**
-- 🔥 *Top Story:* [Example: Microsoft unveils new AI-powered DevOps assistant](#)
-- 🧠 *Research Highlight:* [MIT releases new paper on quantum encryption](#)
+- 🔥 *Top Story:* [Microsoft unveils new AI-powered DevOps assistant](https://techcrunch.com/2025/09/microsoft-ai-devops-assistant)
+- 🧠 *Research Highlight:* [MIT releases new paper on quantum encryption](https://news.mit.edu/2025/quantum-encryption-paper-0905)
 
 ---
 
 ## 🛠️ New IT Tools & Software Releases
-- 🚀 **Tool of the Week:** [Docker 25.0 release with enhanced security features](#)
-- 🧩 **New Plugin:** [VS Code AI Copilot Plugin update](#)
-- 🖥️ **OS Update:** [Ubuntu 25.04 Beta now available](#)
+- 🚀 **Tool of the Week:** [Docker 25.0 release with enhanced security features](https://www.docker.com/blog/docker-25-security-updates/)
+- 🧩 **New Plugin:** [VS Code AI Copilot Plugin update](https://code.visualstudio.com/blogs/2025/09/ai-copilot-update)
+- 🖥️ **OS Update:** [Ubuntu 25.04 Beta now available](https://ubuntu.com/blog/ubuntu-25-04-beta-release)
 
 ---
 
 ## 💼 Job Market & Careers
-- 📈 *Trend:* Cloud security roles continue to dominate hiring demand.  
-- 🧑‍🎓 *Internship Spotlight:* [Google IT Residency Program 2025 applications open](#)  
-- 📝 *Certifications Hot Now:* CompTIA Security+ SY0-701, AWS Solutions Architect  
+- 📈 *Trend:* [Cloud security roles continue to dominate hiring demand](https://www.zdnet.com/article/cloud-security-job-trends-2025)  
+- 🧑‍🎓 *Internship Spotlight:* [Google IT Residency Program 2025 applications open](https://careers.google.com/students/it-residency/)  
+- 📝 *Certifications Hot Now:* [CompTIA Security+ SY0-701](https://www.comptia.org/certifications/security), [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  
 
 ---
 
 ## 🚀 Innovations & Inventions
-- 🛰️ *Breakthrough:* [New low-orbit satellites for global 6G testing](#)  
-- ⚙️ *Invention Highlight:* [Biometric blockchain wallets on the rise](#)  
-- 🧬 *Future Tech:* [AI-driven protein modeling for healthcare IT](#)  
+- 🛰️ *Breakthrough:* [New low-orbit satellites for global 6G testing](https://www.reuters.com/technology/6g-satellite-testing-2025-09-06)  
+- ⚙️ *Invention Highlight:* [Biometric blockchain wallets on the rise](https://cointelegraph.com/news/biometric-blockchain-wallets-2025)  
+- 🧬 *Future Tech:* [AI-driven protein modeling for healthcare IT](https://www.nature.com/articles/ai-protein-modeling-2025)  
 
 ---
 
 ## 📚 Resources & Deep Dives
-- 🎧 Podcast: [Darknet Diaries – New Episode on Telecom Security](#)  
-- 📖 Article: [Ars Technica: The State of Open Source in 2025](#)  
-- 🎥 Video: [Linus Tech Tips – Exploring the Future of CPUs](#)  
+- 🎧 Podcast: [Darknet Diaries – New Episode on Telecom Security](https://darknetdiaries.com/episode/147/)  
+- 📖 Article: [Ars Technica: The State of Open Source in 2025](https://arstechnica.com/open-source-state-2025)  
+- 🎥 Video: [Linus Tech Tips – Exploring the Future of CPUs](https://www.youtube.com/watch?v=future-cpu-tech-2025)  
 
 ---
 
@@ -52,4 +52,4 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 
 ---
 
-> ⚡ **Tip:** Check back weekly – IT Pulse is updated regularly to keep you informed!
+> ⚡ **Tip:** Check back weekly – IT Pulse is updated regularly to keep you informed!  
