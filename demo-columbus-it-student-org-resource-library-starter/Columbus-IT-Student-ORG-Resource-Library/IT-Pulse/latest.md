@@ -11,7 +11,7 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 
 ## 📰 Latest IT News
 - 🗓️ **[Date Range: Sept 1–7, 2025]**
-- 🔥 *Top Story:* [Microsoft unveils new AI-powered DevOps assistant](https://www.techradar.com/news/microsoft-ai-devops-assistant)
+- 🔥 *Top Story:* [Microsoft unveils new AI-powered DevOps assistant](https://www.aegissofttech.com/insights/ai-powered-devops/)
 - 🧠 *Research Highlight:* [MIT releases new paper on quantum encryption](https://news.mit.edu/2024/quantum-encryption-research-0823)
 
 ---
