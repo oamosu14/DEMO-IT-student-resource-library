@@ -1,5 +1,9 @@
 # ⚡ IT Pulse – Stay Ahead in Tech  
 
+![Auto-Updated](https://img.shields.io/badge/Status-Auto--Updated-brightgreen?style=for-the-badge&logo=github)  
+![Category](https://img.shields.io/badge/Focus-IT%20News%20|%20Tools%20|%20Careers%20|%20Innovation-blue?style=for-the-badge&logo=linux)  
+![Students](https://img.shields.io/badge/For-Students%20|%20Alumni%20|%20Faculty-purple?style=for-the-badge&logo=gradle)  
+
 Welcome to **IT Pulse**, your one-stop spot for the **latest in IT, software, tools, and industry updates**.  
 This page is refreshed regularly to help students, alumni, and faculty stay in the loop with **everything IT**.  
 
