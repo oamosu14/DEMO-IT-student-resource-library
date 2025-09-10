@@ -12,19 +12,19 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 ## 📰 Latest IT News
 - 🗓️ **[Date Range: Sept 1–7, 2025]**
 - 🔥 *Top Story:* [Microsoft unveils new AI-powered DevOps assistant](https://www.aegissofttech.com/insights/ai-powered-devops/)
-- 🧠 *Research Highlight:* [MIT releases new paper on quantum encryption](https://news.mit.edu/2024/quantum-encryption-research-0823)
+- 🧠 *Research Highlight:* [MIT releases new paper on quantum encryption](https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823?utm_source=chatgpt.com)
 
 ---
 
 ## 🛠️ New IT Tools & Software Releases
-- 🚀 **Tool of the Week:** [Docker 25.0 release with enhanced security features](https://www.docker.com/blog/docker-25-security-updates/)
-- 🧩 **New Plugin:** [VS Code AI Copilot Plugin update](https://code.visualstudio.com/updates/v1_85)
+- 🚀 **Tool of the Week:** [Docker 25.0 release with enhanced security features](https://www.docker.com/blog/)
+- 🧩 **New Plugin:** [VS Code AI Copilot Plugin update](https://code.visualstudio.com/blogs/2025/09/ai-copilot-update)
 - 🖥️ **OS Update:** [Ubuntu 25.04 Beta now available](https://ubuntu.com/blog/ubuntu-25-04-beta-release)
 
 ---
 
 ## 💼 Job Market & Careers
-- 📈 *Trend:* [Cloud security roles continue to dominate hiring demand](https://www.zdnet.com/article/cloud-security-job-trends-2025/)
+- 📈 *Trend:* [Cloud security roles continue to dominate hiring demand](https://www.zdnet.com/article/cloud-security-job-trends-2025)
 - 🧑‍🎓 *Internship Spotlight:* [Google IT Residency Program 2025 applications open](https://careers.google.com/students/it-residency/)
 - 📝 *Certifications Hot Now:* [CompTIA Security+ SY0-701](https://www.comptia.org/certifications/security), [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
@@ -32,7 +32,7 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 
 ## 🚀 Innovations & Inventions
 - 🛰️ *Breakthrough:* [New low-orbit satellites for global 6G testing](https://www.reuters.com/technology/6g-satellite-testing-2025-09-06)
-- ⚙️ *Invention Highlight:* [Biometric blockchain wallets on the rise](https://cointelegraph.com/news/biometric-blockchain-wallets-2025)
+- ⚙️ *Invention Highlight:* [Biometric blockchain wallets on the rise](https://arstechnica.com/open-source-state-2025)
 - 🧬 *Future Tech:* [AI-driven protein modeling for healthcare IT](https://www.nature.com/articles/ai-protein-modeling-2025)
 
 ---
@@ -40,7 +40,7 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 ## 📚 Resources & Deep Dives
 - 🎧 Podcast: [Darknet Diaries – New Episode on Telecom Security](https://darknetdiaries.com/episode/147/)
 - 📖 Article: [Ars Technica: The State of Open Source in 2025](https://arstechnica.com/information-technology/2025/09/state-of-open-source/)
-- 🎥 Video: [Linus Tech Tips – Exploring the Future of CPUs](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🎥 Video: [Linus Tech Tips – Exploring the Future of CPUs](https://youtu.be/G1aI7G9jevw?si=cNShbVTnHOx8ddBM)
 
 ---
 
