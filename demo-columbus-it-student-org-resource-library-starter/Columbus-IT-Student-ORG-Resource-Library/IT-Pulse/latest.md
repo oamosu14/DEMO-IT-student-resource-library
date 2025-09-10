@@ -14,35 +14,10 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 ## 💡🌟 IT TIP OF THE WEEK 🌟💡
 ![Tip](https://img.shields.io/badge/Tip-of-the-Week-yellow?style=for-the-badge&logo=markdown)
 
-### 🔹 Tip 1 – DevOps
-> 💻 **"Automate repetitive tasks; if you do it twice, script it!"** – DevOps Wisdom  
-
-### 🔹 Tip 2 – Cybersecurity
-> 🔐 **"Use multi-factor authentication everywhere—it’s your first line of defense."** – Cybersecurity Pro  
-
-### 🔹 Tip 3 – Database
-> ⚙️ **"Index your database columns that you query often; it saves tons of time."** – Database Guru  
-
-### 🔹 Tip 4 – Networking
-> 🌐 **"Document your network IPs and subnets. Chaos loves undocumented networks."** – Networking Pro  
-
-### 🔹 Tip 5 – Linux
-> 🐧 **"Learn to use the CLI efficiently; it saves hours daily."** – Linux Enthusiast  
-
-### 🔹 Tip 6 – Cloud
-> ☁️ **"Regularly check cloud usage to avoid unexpected costs."** – Cloud Specialist  
-
-### 🔹 Tip 7 – Programming
-> 💾 **"Use descriptive names for variables, functions, and files."** – Coding Best Practice  
-
-### 🔹 Tip 8 – SysAdmin
-> 🖥️ **"Monitor logs daily to catch errors before they escalate."** – SysAdmin Expert  
-
-### 🔹 Tip 9 – Career
-> 🚀 **"Learn one new tool or language every month to stay current."** – Career Mentor  
-
-### 🔹 Tip 10 – Security
-> 🔒 **"Practice ethical hacking to understand vulnerabilities."** – Cybersecurity Trainer    
+> 💻  **"Automate repetitive tasks; if you do it twice, script it!"** – DevOps Wisdom  
+> 🔐  **"Use multi-factor authentication everywhere—it’s your first line of defense."** – Cybersecurity Pro  
+> ⚙️  **"Index your database columns that you query often; it saves tons of time."** – Database Guru  
+> 🖥️  **"Monitor logs daily to catch errors before they escalate."** – SysAdmin Expert       
 
 ✨ **Tip:** Check back every week for a fresh IT Tip to stay motivated and sharp in all IT fields!  
 
