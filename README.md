@@ -97,6 +97,22 @@ Each roadmap shows skills, certifications, projects, and recommended study durat
 
 ---
 
+### 6. IT Pulse – Your Window into the Future of IT  
+The IT world moves fast — new tools, inventions, and trends appear almost every day. **IT Pulse** is your real-time feed for everything hot in tech, tailored for students, alumni, and faculty who want to stay *ahead of the curve*.  
+Through **IT Pulse**, you’ll find:  
+- 📰 **Breaking IT News** – Major developments in software, hardware, and cybersecurity.  
+- 🛠️ **New Tools & Releases** – Freshly launched IT tools, frameworks, and software updates.  
+- 💼 **Job Market Trends** – Emerging roles, in-demand certifications, and career opportunities.  
+- 🚀 **Innovations & Research** – Cutting-edge inventions shaping the future of technology.  
+- 📚 **Learning Resources** – Podcasts, articles, and videos to deepen your knowledge.  
+
+> 💡 Why check IT Pulse?  
+> Because knowing *what’s next* helps you prepare today. Stay informed, stay relevant, and never miss out on the opportunities and trends shaping the IT industry.  
+
+➡️ [**Explore IT Pulse Now**](./it-pulse/latest.md)  
+
+---
+
 🎮 Fun Learning & Challenges
 ---------------------------
 Explore beginner-friendly interactive exercises to make learning IT fun!
