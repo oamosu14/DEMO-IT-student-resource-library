@@ -30,7 +30,7 @@ jobs:
               "https://www.techradar.com/rss",
               "https://techcrunch.com/feed/"
           ]
-          md_file = "it-pulse/latest.md"
+          md_file = "demo-columbus-it-student-org-resource-library-starter/Columbus-IT-Student-ORG-Resource-Library/IT-Pulse/latest.md"
           sections = {"📰 Latest IT News": []}
           for feed in feeds:
               d = feedparser.parse(feed)
