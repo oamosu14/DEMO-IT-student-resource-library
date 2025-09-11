@@ -1,0 +1,52 @@
+name: Update IT Pulse
+
+on:
+  schedule:
+    - cron: "0 9 * * *"  # Daily 9AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-it-pulse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests feedparser beautifulsoup4
+
+      - name: Fetch latest IT news and format Markdown
+        run: |
+          python <<EOF
+          import feedparser
+          feeds = [
+              "https://www.zdnet.com/news/rss.xml",
+              "https://www.techradar.com/rss",
+              "https://techcrunch.com/feed/"
+          ]
+          md_file = "it-pulse/latest.md"
+          sections = {"📰 Latest IT News": []}
+          for feed in feeds:
+              d = feedparser.parse(feed)
+              for entry in d.entries[:5]:
+                  sections["📰 Latest IT News"].append(f"- [{entry.title}]({entry.link})")
+          with open(md_file, "w", encoding="utf-8") as f:
+              f.write("# ⚡ IT Pulse – Latest Updates\n\n")
+              for section, items in sections.items():
+                  f.write(f"## {section}\n\n")
+                  f.write("\n".join(items) + "\n\n")
+          EOF
+
+      - name: Commit & push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add it-pulse/latest.md
+          git commit -m "🔄 Auto-update IT Pulse"
+          git push
