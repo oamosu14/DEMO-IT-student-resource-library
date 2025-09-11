@@ -11,7 +11,7 @@ This page is refreshed regularly to help students, alumni, and faculty stay in t
 ---
 ---
 
-## 💡 IT TIP OF THE WEEK
+## 💡 IT TIPS OF THE WEEK
 ![Tip Badge](https://img.shields.io/badge/Tip-of-the-Week-yellow?style=for-the-badge&logo=markdown)
 
 > 💻 **"Automate repetitive tasks; if you do it twice, script it!"** – DevOps Wisdom  
