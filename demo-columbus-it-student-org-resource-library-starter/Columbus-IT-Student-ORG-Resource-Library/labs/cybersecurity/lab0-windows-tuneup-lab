@@ -1,0 +1,184 @@
+# Windows Performance Tune-Up Lab Guide
+
+This lab is designed for **IT Students (Generalist Track)** to practice Windows system maintenance and optimization. By completing this lab, students will learn how to troubleshoot slow performance, tune up a Windows computer, and apply preventive maintenance techniques.
+
+---
+
+## 🎯 Objectives
+- Identify causes of slow system performance.
+- Perform tune-up and optimization tasks on a Windows PC.
+- Create a routine checklist for daily, weekly, and monthly maintenance.
+- Apply hands-on commands and tools to improve performance.
+
+---
+
+## 🛠️ Prerequisites
+- A Windows 10 or Windows 11 computer (physical or virtual machine).
+- Local Administrator privileges.
+- Internet connection (for updates and downloads).
+
+---
+
+## 🔹 Part 1: Tune-Up and Optimization Steps
+
+### 1. Check Resource Usage
+- Press **Ctrl + Shift + Esc** to open **Task Manager**.
+- Click **More details** (if in compact view).
+- Sort by **CPU**, **Memory**, or **Disk** usage.
+- End non-essential tasks by right-clicking → **End task**.
+
+### 2. Manage Startup Programs
+- **Windows 10/11:** Task Manager → **Startup** tab → Disable unnecessary programs.
+- **Windows 11 alternate path:** Settings → Apps → Startup → toggle off unneeded apps.
+
+### 3. Remove Bloatware & Unused Apps
+- Settings → Apps → Apps & Features (Win10) or Installed Apps (Win11).
+- Select unwanted apps → **Uninstall**.
+
+### 4. Optimize Disk Usage
+- **Disk Cleanup:** Start → type `Disk Cleanup` → select C: → **Clean up system files**.
+- **Storage Sense:** Settings → System → Storage → enable **Storage Sense** → **Run now**.
+- **Optimize Drives:** Start → type `Defragment and Optimize Drives` → select C: → **Optimize**.
+
+### 5. Adjust Performance Settings
+- Right-click Start → System → Advanced system settings → **Performance Settings**.
+- Select **Adjust for best performance** or customize visual effects.
+- Adjust Power Plan: Settings → System → Power & battery → Power mode → **Best performance**.
+
+### 6. Keep Windows & Drivers Updated
+- Settings → Windows Update → **Check for updates**.
+- Device Manager → expand **Display adapters** / **Network adapters** → right-click → **Update driver**.
+
+### 7. Scan for Malware
+- Open **Windows Security** → Virus & threat protection → **Full scan**.
+- (Optional) Run Malwarebytes for extra scanning.
+
+### 8. Free Up RAM & Storage
+- Close unused browser tabs and extensions.
+- Move large files to external storage or cloud.
+- Clear %temp% folder:
+  ```
+  Win + R → type %temp% → Ctrl + A → Delete
+  ```
+
+### 9. Advanced Tweaks
+- Disable background apps:
+  - Windows 10: Settings → Privacy → Background apps.
+  - Windows 11: Settings → Apps → Installed apps → Advanced options → Background permissions → set to **Never**.
+- Check TRIM for SSD:
+  ```
+  fsutil behavior query DisableDeleteNotify
+  ```
+  (0 = enabled, 1 = disabled)
+
+### 10. Hardware Considerations
+- Upgrade HDD → SSD.
+- Add more RAM if usage > 80%.
+- Physically clean dust from fans/vents.
+
+---
+
+## 🔹 Part 2: Windows Performance Tune-Up Checklist
+
+### ✅ Daily
+- Close unused apps and tabs.
+- Restart PC once a day.
+- Check Task Manager for heavy processes.
+
+### 🔄 Weekly
+- Delete temporary files (%temp%, `cleanmgr`).
+- Disable unnecessary startup apps.
+- Run quick malware scan.
+- Update Windows & apps.
+
+### 📅 Monthly
+- Optimize drives (Defrag/Trim).
+- Move old files to external/cloud storage.
+- Update device drivers.
+- Review power plan & background apps.
+
+### 📌 Every 6 Months
+- Physically clean fans/vents.
+- Run full malware scan.
+- Uninstall unused software.
+
+---
+
+## 🔹 Part 3: Step-by-Step Lab Tasks
+
+### Task 1: Kill Heavy Processes
+1. Press **Ctrl + Shift + Esc**.
+2. Click **More details**.
+3. Click **CPU** column to sort.
+4. Right-click a high-usage app → **End task**.
+
+### Task 2: Disable Startup Apps
+1. Open **Task Manager**.
+2. Click **Startup tab**.
+3. Right-click an unwanted app → **Disable**.
+
+### Task 3: Clean Disk
+1. Start → search **Disk Cleanup**.
+2. Select **C:** → click **Clean up system files**.
+3. Check **Temporary files**, **Recycle Bin**, etc. → click **OK**.
+
+### Task 4: Enable Storage Sense
+1. Settings → System → Storage.
+2. Toggle **Storage Sense ON**.
+3. Click **Run Storage Sense now**.
+
+### Task 5: Optimize Drives
+1. Start → type **Defragment and Optimize Drives**.
+2. Select C: → **Optimize**.
+
+### Task 6: Adjust Performance
+1. Right-click Start → **System**.
+2. Click **Advanced system settings**.
+3. Under **Performance**, click **Settings**.
+4. Select **Adjust for best performance** → Apply.
+
+### Task 7: Update Windows
+1. Start → Settings → Windows Update.
+2. Click **Check for updates**.
+3. Install all available updates.
+
+### Task 8: Run Malware Scan
+1. Start → type **Windows Security**.
+2. Open → Virus & threat protection.
+3. Click **Scan options** → **Full scan** → **Scan now**.
+
+### Task 9: Clear Temp Files
+1. Press **Win + R**, type `%temp%`.
+2. Press **Ctrl + A** → Delete.
+3. Skip files in use.
+
+### Task 10: Check TRIM (SSD only)
+1. Start → type **cmd** → right-click → Run as Administrator.
+2. Run:
+   ```
+   fsutil behavior query DisableDeleteNotify
+   ```
+   - If result = 0 → TRIM enabled.
+
+---
+
+## 📝 Lab Report Instructions
+When finished, students should:
+- Document the steps they completed.
+- Take screenshots of Task Manager, Disk Cleanup, Storage Sense, and Windows Security scan results.
+- Submit a short reflection on performance improvement observed.
+
+---
+
+## ✅ Deliverables
+- Completed checklist with dates.
+- Screenshots of maintenance tasks.
+- Reflection (200–300 words).
+
+---
+
+## 📚 References
+- Microsoft Docs: [Optimize Windows for better performance](https://support.microsoft.com/windows/optimize-windows-for-better-performance)
+- Windows Security: [Run a scan](https://support.microsoft.com/windows)
+
+---
